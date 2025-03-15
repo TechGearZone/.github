@@ -1,2 +1,2 @@
 # .github
-![architechture mini-projet](https://github.com/user-attachments/assets/c29b8cea-6677-45d3-bc43-15c3128ccd79)
+![archi mini-projet](https://github.com/user-attachments/assets/54201262-5e50-4a4f-b2c6-3421a6c94c1d)
