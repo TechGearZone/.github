@@ -1,7 +1,7 @@
-# E-Shop Microservices: A Scalable E-Commerce Platform
+# Techgear Microservices: A Scalable E-Commerce Platform
 
 ## Solution Overview
-E-Shop Microservices is a modern e-commerce platform built using a microservices architecture for flexibility and scalability.
+Techgear Microservices is a modern e-commerce platform built using a microservices architecture for flexibility and scalability.
 
 The system includes independent services for **Orders**, **Products**, **Users**, and **Delivery**, communicating through Spring Cloud technologies.
 
